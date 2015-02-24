@@ -20,6 +20,7 @@ my $color = {
               'indigo'    => hex("0xC000"),
               'lavender'  => hex("0xD000"),
               'pink'      => hex("0xE000"),
+              'gold'      => hex("0x1D3C"),
             };
 
 my $lights = {
